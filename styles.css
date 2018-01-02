@@ -1,0 +1,16 @@
+body p {
+  color: orange;
+}
+
+a:hover {
+  color: pink;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+ul li {
+  display: inline-block;
+  width: 100%;
+}
